@@ -1,0 +1,14 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+the process of tagging your html in a way thats so easily read you already know what purpose it serves.
+
+2. Name two big differences between display: block; and display: inline;.
+block respects width and height, respects padding margin etc. inline does not.
+
+3. What are the 4 areas of the box model?
+margin border content padding
+
+4. While using flexbox, what axis does the following property work on: align-items: center?
+the main axis
+
+5. Explain why git is valuable to a team of developers.
+it allows for simultaneous oraganized work and security for dev projects.
